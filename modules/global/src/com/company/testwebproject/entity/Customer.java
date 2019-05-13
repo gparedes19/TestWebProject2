@@ -32,6 +32,8 @@ public class Customer extends StandardEntity {
     }
 
     public String getName() {
+        /*-------*/
+        name = "Giovanni"
         return name;
     }
 
