@@ -8,6 +8,8 @@ import javax.persistence.Table;
 import javax.validation.constraints.Email;
 import javax.validation.constraints.NotNull;
 
+/*GPAREDES*/
+
 @Table(name = "TESTWEBPROJECT_CUSTOMER")
 @Entity(name = "testwebproject_Customer")
 public class Customer extends StandardEntity {
